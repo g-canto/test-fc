@@ -1,2 +1,5 @@
-Guillermo Canto
-Daniel Chan  
+Guillermo Canto.  
+
+Daniel Chan.  
+
+Wilberth Solís.
